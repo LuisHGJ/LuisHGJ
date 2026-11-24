@@ -1,3 +1,5 @@
+# Luís Henrique Gava Junior
+
 Engenheiro de Software e de IA, com foco em **LLMs, RAG e agentes de IA**. Levo soluções do levantamento de requisitos com usuários e gestores até a produção.
  
 ## No que trabalho
